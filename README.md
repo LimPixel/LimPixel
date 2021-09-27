@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neofreya&label=Profile%20views&color=0e75b6&style=flat" alt="neofreya" /> </p>
 
+- 🔭 I’m Studying On **IDN BOARDING SCHOOL**
+
+- 🌱 I’m currently learning **Design, Android, Devolopment Website**
+
+- 👯 I’m A Desiger In [Dribbble](https://dribbble.com/IOK)
+
+- 📝 I regularly write articles on [https://hashnode.com/@Mr-Code](https://hashnode.com/@Mr-Code)
+
+- 📫 How to reach me **neonjake019@gmail.co,**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdul halim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul halim" height="30" width="40" /></a>
