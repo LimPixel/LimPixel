@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neofreya&label=Profile%20views&color=0e75b6&style=flat" alt="neofreya" /> </p>
 
-- 🔭 I’m Studying On **IDN BOARDING SCHOOL**
+- 🔭 I’m Studying On [IDN BOARDING SCHOOL](https://idn.sch.id)
 
 - 🌱 I’m currently learning **Design, Android, Devolopment Website**
 
