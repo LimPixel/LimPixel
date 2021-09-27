@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Halim</h1>
+<h1 align="center">Hi 👋, I'm Halim</h1>
 <h3 align="center">A Designer and Programmer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neofreya&label=Profile%20views&color=0e75b6&style=flat" alt="neofreya" /> </p>
