@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@Mr-Code](https://hashnode.com/@Mr-Code)
 
-- 📫 How to reach me **neonjake019@gmail.co,**
+- 📫 How to reach me **neonjake019@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
